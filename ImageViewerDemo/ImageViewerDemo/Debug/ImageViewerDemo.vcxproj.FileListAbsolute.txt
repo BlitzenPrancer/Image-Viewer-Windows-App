@@ -1,0 +1,4 @@
+D:\Visual Studio Projects\ImageViewerDemo\ImageViewerDemo\Debug\ImageViewerDemo.vcxprojAssemblyReference.cache
+C:\Users\user\code\ImageViewerDemo\ImageViewerDemo\Debug\ImageViewerDemo.vcxproj.AssemblyReference.cache
+C:\Users\user\code\ImageViewerDemo\ImageViewerDemo\Debug\ImageViewerDemo.MyForm.resources
+C:\Users\user\code\ImageViewerDemo\ImageViewerDemo\Debug\ImageViewerDemo.vcxproj.GenerateResource.cache
